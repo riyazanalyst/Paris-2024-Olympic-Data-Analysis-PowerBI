@@ -46,12 +46,31 @@ Predictive Analysis: Leveraging machine learning models to forecast future perfo
 
 
 # Snapshot of Dashboard (Power BI Service)
-https://github.com/riyazanalyst/Paris-2024-Olympic-Data-Analysis-PowerBI/blob/main/Paris%20olympic%20dashboard%20screenshot/Screenshot%202025-01-26%20021942.png
 
- # Report Snapshot (Power BI DESKTOP)
+### Home
+
+
+![Image](https://github.com/user-attachments/assets/9273f69c-ff27-4adc-b14a-090a849657d0)
+[](url)
+### Overview
+
+![Image](https://github.com/user-attachments/assets/462689f4-1d1a-4a65-92db-246df857ee05)
+
+### Athletics
+
+![Image](https://github.com/user-attachments/assets/180dbc43-5c48-4646-af63-f3ec6fdca7c3)
+
+### Country
+
+![Image](https://github.com/user-attachments/assets/68f81c2a-120d-493b-afb0-607e8b89861e)
+
+### History
+
+![Image](https://github.com/user-attachments/assets/fecec6cf-7992-4505-973f-1eebbdbf79f7)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+
+
 
 
 
