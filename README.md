@@ -1,6 +1,6 @@
 # Paris Olympics 2024 Dashboard using PowerBI
 
-### Dashboard Link : https://app.powerbi.com/links/UMzatAHJeZ?ctid=48a2c42f-2cd5-439c-ae36-bd81b9b32ebf&pbi_source=linkShare&bookmarkGuid=c199fce7-e642-47e9-b6c8-f7b891195569
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZTYyMzY5MWYtZGQ2YS00Yjc3LWJlZjMtZjAzNmU3YmEyZGE5IiwidCI6IjQ4YTJjNDJmLTJjZDUtNDM5Yy1hZTM2LWJkODFiOWIzMmViZiJ9
 ## Project Overview
 
 This project is a detailed Power BI dashboard created to showcase key insights and data from the Paris Olympics 2024. The dashboard is organized into multiple pages, each highlighting different aspects of the Olympic Games, such as an overall summary, athlete performance analysis, country-wise insights, and historical trends. Designed to be interactive and user-friendly, it provides valuable information, including medal tallies by athlete, medal distribution by country, and the total counts of gold, silver, and bronze medals won during the 2024 Olympics.
